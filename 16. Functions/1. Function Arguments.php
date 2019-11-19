@@ -3,6 +3,7 @@
 <body>
 
 <?php
+
 // membuat fungsi dengan parameter
 function familyName($fname) {
     // mencetak string
